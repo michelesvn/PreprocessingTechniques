@@ -1,6 +1,6 @@
 # PreprocessingTechniques
 
-PreprocessingTechniques is a **MATLAB-based toolkit** that provides a comprehensive set of functions and methods for preparing datasets before model training. Its goal is to streamline data cleaning, normalization, outlier handling, feature selection, and dimensionality reduction, enabling users to focus on building robust machine learning models.
+PreprocessingTechniques is a **MATLAB-based toolkit** designed to provide a comprehensive suite of functions and methodologies for data **preprocessing**. It facilitates the preparation of datasets prior to model training by streamlining key preprocessing tasks, including data cleaning, normalization, outlier management, feature selection, and dimensionality reduction.
 
 ## Project Structure
 
